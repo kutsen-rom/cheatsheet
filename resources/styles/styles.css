@@ -1,0 +1,37 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(240, 76%, 95%);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    color:hsl(240, 100%, 35%);
+}
+
+table {
+    border: 2px solid black;
+    width: 700px;
+    margin: 0 auto;
+    line-height: 1.4em;
+}
+
+th {
+  
+    background-color: hsl(240, 100%, 88%);
+}
+
+td {
+    border-top: 1px solid black;
+}
+
+.code {
+    background-color: white;
+    font-family: monospace;
+}
+
+.class {
+    width: 110px;
+}
